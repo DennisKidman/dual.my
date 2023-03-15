@@ -156,6 +156,12 @@ NS records:
   - name: "null"
     value: ns4.byet.org
     ttl: "14400"
+  - name: "fari"
+    value: alla.ns.cloudflare.com
+    ttl: "14400"
+  - name: "fari"
+    value: james.ns.cloudflare.com
+    ttl: "14400"
 
 # Records of type A are exclusively utilized for IPv4.
 A records:
