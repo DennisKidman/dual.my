@@ -57,3 +57,5 @@ NS records:
   value: ns3.byet.org
 - name: 'null'
   value: ns4.byet.org
+- name:  cauvang28
+  value: ns41.cloudns.net
