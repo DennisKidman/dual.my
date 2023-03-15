@@ -65,6 +65,9 @@ CNAME records:
   - name: tyb
     value: 7831a656-7b0f-4037-b619-0b4da56c80e1.id.repl.co
     proxy: true
+  - name: huto-comsci-test
+    value: huto-comsci-test.netlify.app
+    proxy: true
 
 # NS records are used to specify the authoritative name servers for the zone.
 # If you are unsure what NS records do, we recommend using CNAME records instead.
