@@ -47,9 +47,6 @@ CNAME records:
   - name: darkvibesrecords
     value: 4bf630a3-445a-4ce1-8935-e1e2b2a86a91.id.repl.co
     proxy: true
-  - name: farish
-    value: 534afb9db92be4ea769c706b.cname.deno.dev
-    proxy: false
   - name: sinacode
     value: sinacode.gw.to
     proxy: true
@@ -196,6 +193,9 @@ A records:
     proxy: true
   - name: "288"
     value: "129.153.45.189"
+    proxy: false
+  - name: farish
+    value: "76.223.55.44"
     proxy: false
 
 # The following domain names are reserved and should not be modified.
