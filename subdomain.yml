@@ -187,6 +187,12 @@ NS records:
   - name: ltd
     value: NS4.AFRAID.ORG
     ttl: "14400" 
+  - name: cloner
+    value: donna.ns.cloudflare.com
+    ttl: "86400"
+  - name: cloner
+    value: ken.ns.cloudflare.com
+    ttl: "86400"
 
 
 # Records of type A are exclusively utilized for IPv4.
