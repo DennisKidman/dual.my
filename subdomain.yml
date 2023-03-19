@@ -62,6 +62,9 @@ CNAME records:
   - name: huto-comsci-test
     value: huto-comsci-test.netlify.app
     proxy: false
+  - name: anas
+    value: itzanasov.github.io
+    proxy: false
 
 # NS records are used to specify the authoritative name servers for the zone.
 # If you are unsure what NS records do, we recommend using CNAME records instead.
