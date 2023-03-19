@@ -202,6 +202,18 @@ NS records:
   - name: bio
     value: NS4.AFRAID.ORG
     ttl: "3600" 
+  - name: rvpanel
+    value: NS1.AFRAID.ORG
+    ttl: "14400"
+  - name: rvpanel
+    value: NS2.AFRAID.ORG
+    ttl: "14400" 
+  - name: rvpanel
+    value: NS3.AFRAID.ORG
+    ttl: "14400"
+  - name: rvpanel
+    value: NS4.AFRAID.ORG
+    ttl: "14400" 
 
 
 # Records of type A are exclusively utilized for IPv4.
