@@ -202,6 +202,13 @@ NS records:
   - name: bio
     value: NS4.AFRAID.ORG
     ttl: "3600" 
+    
+  - name: biz
+    value: henrik.ns.cloudflare.com
+    ttl: "86400"
+  - name: biz
+    value: georgia.ns.cloudflare.com
+    ttl: "86400"
 
 
 # Records of type A are exclusively utilized for IPv4.
