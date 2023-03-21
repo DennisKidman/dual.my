@@ -82,6 +82,12 @@ NS records:
   - name: test
     value: ns4.test.org
     ttl: "14400"
+  - name: shock
+    value: sam.ns.cloudflare.com
+    ttl: "14400"
+  - name: shock
+    value: roxy.ns.cloudflare.com
+    ttl: "14400"
   - name: sebastian
     value: ns0.1984.is
     ttl: "86400"
