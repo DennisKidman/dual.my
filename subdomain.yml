@@ -243,7 +243,7 @@ A records:
     proxy: false
   - name: aog
     value: "74.208.236.6"
-    proxy: true
+    proxy: false
 
 # The following domain names are reserved and should not be modified.
 Reserved records:
