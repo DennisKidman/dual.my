@@ -65,6 +65,18 @@ CNAME records:
   - name: anas
     value: itzanasov.github.io
     proxy: false
+  - name: 0ad
+    value: play0ad.com
+    proxy: false
+  - name: aog
+    value: aogamers.net
+    proxy: false
+  - name: darkrp
+    value: aogamers.net
+    proxy: false
+  - name: dank
+    value: aogamers.net
+    proxy: false
 
 # NS records are used to specify the authoritative name servers for the zone.
 # If you are unsure what NS records do, we recommend using CNAME records instead.
